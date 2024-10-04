@@ -22,7 +22,7 @@
 - [LLM Recommendations](https://github.com/roberto-nai/NLDB2024)   
 
 **Chapter 6:**  
-- [Web Tutorial source](https://github.com/roberto-nai/WEBTUTORIAL-UNITO)  
+- [Web tutorial source](https://github.com/roberto-nai/WEBTUTORIAL-UNITO)  
 - [Web tutorial tracking to event log](https://github.com/roberto-nai/WEBTUTORIAL-UNITO-EVENTLOG)  
 - [NIRDIZATI](http://research.nirdizati.org)
 

@@ -27,3 +27,6 @@
 - [NIRDIZATI](http://research.nirdizati.org)
 
 **Chapter 7:** no code  
+
+**Appendix A:**  
+- [ANAC Open Data Ethical](https://github.com/roberto-nai/ANAC-OD-ETHICAL)  

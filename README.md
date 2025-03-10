@@ -29,4 +29,6 @@
 **Chapter 7:** no code  
 
 **Appendix A:**  
-- [ANAC Open Data Ethical](https://github.com/roberto-nai/ANAC-OD-ETHICAL)  
+- [ANAC Open Data Ethical](https://github.com/roberto-nai/ANAC-OD-ETHICAL)
+
+**Appendix B:** no code  

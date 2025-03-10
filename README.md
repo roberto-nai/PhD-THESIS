@@ -32,3 +32,7 @@
 - [ANAC Open Data Ethical](https://github.com/roberto-nai/ANAC-OD-ETHICAL)
 
 **Appendix B:** no code  
+
+The ITH database is available on the Zenodo platform [https://zenodo.org/records/12179651](https://zenodo.org/records/12179651).  
+
+
